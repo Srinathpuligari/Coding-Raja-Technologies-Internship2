@@ -1,5 +1,5 @@
 body {
-    background-image:"music.jpg";
+    background-image:url('music.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
